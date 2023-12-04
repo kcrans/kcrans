@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and software engineering careers
 - 🌱 I’m currently learning deep learning theory and graphics programming
 - 💞️ I’m looking to collaborate on socially impactful projects
-- 📫 Reach me at kalebcrans 'at' gmail 'dot' com
+- 📫 The best way to reach me is kalebcrans 'at' gmail 'dot' com
 
 <!---
 kcrans/kcrans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
