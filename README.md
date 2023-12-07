@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning deep learning theory and graphics programming
 - 💞️ I’m looking to collaborate on socially impactful projects
 - 📫 The best way to reach me is kalebcrans 'at' gmail 'dot' com
+- 🏕 Take a look at my [website](https://kcrans.com)
 
 <!---
 kcrans/kcrans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
