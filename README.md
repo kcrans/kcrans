@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaleb
-- 👀 I’m interested in data science and software engineering careers
-- 🌱 I’m currently learning deep learning theory and graphics programming
-- 💞️ I’m looking to collaborate on socially impactful projects
+- 👀 I’m interested in software engineering careers, with a focus on embedded, ml and real-word applications like manufacturing
+- 🌱 I’m currently learning rust and graphics programming in my free time
+- 🤝 I’m looking to collaborate on projects involving remote sensing, robotics, and cool applications of machine learning 
 - 📫 The best way to reach me is kalebcrans 'at' gmail 'dot' com
 - 🏕 Take a look at my [website](https://kcrans.com)
 
