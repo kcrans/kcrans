@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kaleb
-- 👀 I’m interested in software engineering careers of all kinds
 - 🌱 I’m currently learning rust in my free time
 - 🤝 I’m looking to collaborate on projects involving remote sensing, robotics, and cool applications of machine learning 
 - 📫 The best way to reach me is kalebcrans 'at' gmail 'dot' com
